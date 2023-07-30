@@ -14,3 +14,7 @@ Results:
 30
 40
 50
+("I'm out of the loop now")
+ 
+Repeat the same code using “continue” instead of “break”. Write down the output.
+      
